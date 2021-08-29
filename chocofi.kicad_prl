@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -67,7 +67,7 @@
     "zone_display_mode": 1
   },
   "meta": {
-    "filename": "chococorne.kicad_prl",
+    "filename": "chocofi.kicad_prl",
     "version": 3
   },
   "project": {

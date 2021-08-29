@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.143,
-          "width": 0.635
+          "drill": 3.429,
+          "height": 3.429,
+          "width": 3.429
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -141,7 +141,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "chococorne.kicad_pro",
+    "filename": "chocofi.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -174,7 +174,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "robot.net",
-      "specctra_dsn": "",
+      "specctra_dsn": "chocofi.dsn",
       "step": "",
       "vrml": ""
     },
