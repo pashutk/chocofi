@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name corne-light-rescue)(type Legacy)(uri ${KIPRJMOD}/corne-light-rescue.lib)(options "")(descr ""))
+  (lib (name robot-rescue)(type Legacy)(uri ${KIPRJMOD}/robot-rescue.lib)(options "")(descr ""))
+  (lib (name chococorne-rescue)(type Legacy)(uri ${KIPRJMOD}/chococorne-rescue.lib)(options "")(descr ""))
+)
