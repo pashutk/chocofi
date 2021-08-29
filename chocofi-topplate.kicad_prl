@@ -1,7 +1,7 @@
 {
   "board": {
     "active_layer": 0,
-    "active_layer_preset": "",
+    "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -63,11 +63,11 @@
       35,
       36
     ],
-    "visible_layers": "002ffff_80000001",
-    "zone_display_mode": 1
+    "visible_layers": "fffffff_ffffffff",
+    "zone_display_mode": 0
   },
   "meta": {
-    "filename": "chocofi.kicad_prl",
+    "filename": "chocofi-topplate.kicad_prl",
     "version": 3
   },
   "project": {
