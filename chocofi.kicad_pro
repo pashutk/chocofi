@@ -174,8 +174,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "robot.net",
-      "specctra_dsn": "chocofi1.dsn",
-      "step": "",
+      "specctra_dsn": "chocofi2.dsn",
+      "step": "chocofi.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
