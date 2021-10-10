@@ -12,6 +12,7 @@ Keyboard shield and 3d printed case to use with Arduino ProMicro-like contoller.
 - Easy to print, FDM-friendly two-piece case
 
 Gerbers are here: [pcb](/pcb/gerber.zip) and [top plate](/pcb/gerber-plate.zip)
+
 Stls are here: [case folder](/case)
 
 For more photos check out the [images folder](/images)
