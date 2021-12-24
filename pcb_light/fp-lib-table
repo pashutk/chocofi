@@ -3,4 +3,5 @@
   (lib (name "my")(type "KiCad")(uri "${KIPRJMOD}/my.pretty")(options "")(descr ""))
   (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/kbd.pretty")(options "")(descr ""))
   (lib (name ".github")(type "KiCad")(uri "${KIPRJMOD}/keyswitches.pretty/.github")(options "")(descr ""))
+  (lib (name "f")(type "KiCad")(uri "/home/dn220700ksv/Desktop/chocofi/pcb_light")(options "")(descr ""))
 )
