@@ -1,0 +1,17 @@
+(footprint "SW_Hole_TH_choc" (version 20210606) (generator pcbnew) (layer "F.Cu")
+  (tedit 612BE17A)
+  (attr through_hole)
+  (fp_text reference "SW2" (at 7 8.1) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 8f2bc802-1c1a-45a5-bdc7-2fd954b6dba1)
+  )
+  (fp_text value "KEY_SWITCH" (at -7.4 -8.1) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp cf42b80b-ce33-4619-b258-0d545e844957)
+  )
+  (fp_rect (start -9 -8.5) (end 9 8.5) (layer "F.Fab") (width 0.1) (fill none) (tstamp ab351de4-3173-4c79-be3e-140572f62bc0))
+  (pad "1" thru_hole oval (at 6.65 0) (size 1.5 14.8) (drill oval 0.5 13.8) (layers *.Cu *.Mask) (tstamp 00857eec-ee58-4982-be13-e7a2713a692e))
+  (pad "1" thru_hole oval (at -6.65 0) (size 1.5 14.8) (drill oval 0.5 13.8) (layers *.Cu *.Mask) (tstamp 600891c5-55e6-44fd-9317-2ca1e0af6311))
+  (pad "1" thru_hole oval (at 0 6.65 90) (size 1.5 14.8) (drill oval 0.5 13.8) (layers *.Cu *.Mask) (tstamp 84bc3c32-ea26-40c1-a486-4295ebc5a1a9))
+  (pad "1" thru_hole oval (at 0 -6.65 90) (size 1.5 14.8) (drill oval 0.5 13.8) (layers *.Cu *.Mask) (tstamp a95f68d7-a274-4438-8a0f-6b3bc1c691ad))
+)
