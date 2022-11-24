@@ -21,6 +21,11 @@ For more photos check out the [images folder](/images)
 
 ## By the way
 
+Recommended batteries:
+
+- [Nice nano docs](https://nicekeyboards.com/docs/nice-nano/#recommended-batteries-and-sockets) explains some basics
+- [nRFmicro wiki](https://github.com/joric/nrfmicro/wiki/Batteries#301230) contains links to Aliexpress
+
 Awesome libs used:
 
 - [kbd.pretty](https://github.com/foostan/kbd) by foostan
